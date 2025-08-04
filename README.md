@@ -6,7 +6,7 @@
 
 An application to check if your partner might be on a... less than faithful... list of users. This project features a full-stack architecture with a Node.js/Express backend and a modern React frontend.
 
-![Cheat Buster Demo GIF](httpss://github.com/user-attachments/assets/b0ef9dd1-86a5-4641-a237-ebd7772c930e)
+![Cheat Buster Demo GIF](https://github.com/user-attachments/assets/c0a66a19-7f3c-4a57-bd04-d9952f7193d6)
 
 ---
 
