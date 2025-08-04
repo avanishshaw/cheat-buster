@@ -6,7 +6,7 @@
 
 An application to check if your partner might be on a... less than faithful... list of users. This project features a full-stack architecture with a Node.js/Express backend and a modern React frontend.
 
-![Cheat Buster Demo GIF](https://github.com/user-attachments/assets/c0a66a19-7f3c-4a57-bd04-d9952f7193d6)
+![Cheat Buster Demo GIF](public/img/img-1.png)
 
 ---
 
@@ -117,13 +117,13 @@ To get a local copy up and running, follow these simple steps.
 Once both servers are running, you can test the application's functionality:
 
 - **Found User:** Enter an email or name that exists in the database (e.g., `dylan.peck@example.com` or `dylan`).
-  ![Found User](https://github.com/user-attachments/assets/53e2c7ea-2e5e-4a88-abaf-076d6c76019c)
+  ![Found User](public/img/img-2.png)
 
 - **User Not Found:** Enter an email or name that does not exist.
-  ![Not Found User](https://github.com/user-attachments/assets/a5d51517-3789-4ace-82f8-e1cbbd639e74)
+  ![Not Found User](public/img/img-3.png)
 
 - **Invalid Input:** Enter an invalid email format to see the Zod validation in action.
-  ![Invalid Email](https://github.com/user-attachments/assets/9e887e96-15c4-441e-853b-f81f1c999989)
+  ![Invalid Email](public/img/img-4.png)
 
 ---
 
