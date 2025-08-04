@@ -117,13 +117,13 @@ To get a local copy up and running, follow these simple steps.
 Once both servers are running, you can test the application's functionality:
 
 - **Found User:** Enter an email or name that exists in the database (e.g., `dylan.peck@example.com` or `dylan`).
-  ![Found User](httpss://github.com/user-attachments/assets/7f588a06-80bc-4818-a5ee-c7a894631e12)
+  ![Found User](https://github.com/user-attachments/assets/53e2c7ea-2e5e-4a88-abaf-076d6c76019c)
 
 - **User Not Found:** Enter an email or name that does not exist.
-  ![Not Found User](httpss://github.com/user-attachments/assets/a5d51517-3789-4ace-82f8-e1cbbd639e74)
+  ![Not Found User](https://github.com/user-attachments/assets/a5d51517-3789-4ace-82f8-e1cbbd639e74)
 
 - **Invalid Input:** Enter an invalid email format to see the Zod validation in action.
-  ![Invalid Email](httpss://github.com/user-attachments/assets/9e887e96-15c4-441e-853b-f81f1c999989)
+  ![Invalid Email](https://github.com/user-attachments/assets/9e887e96-15c4-441e-853b-f81f1c999989)
 
 ---
 
