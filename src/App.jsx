@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="bg-slate-100 flex justify-center items-center min-h-screen font-sans">
-      <div className="bg-white p-8 rounded-lg shadow-lg text-center max-w-md w-full">
+      <div className="bg-slate-100 p-8 rounded-lg shadow-lg text-center max-w-md w-full">
         <h1 className="text-3xl font-bold text-gray-800">
           Cheat Buster <span role="img" aria-label="broken heart">💔</span>
         </h1>
