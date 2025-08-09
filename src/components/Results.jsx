@@ -1,4 +1,3 @@
-// src/components/Results.js
 import React from 'react';
 
 const Results = ({ result, loading, error }) => {
@@ -11,15 +10,13 @@ const Results = ({ result, loading, error }) => {
   }
 
   if (!result) {
-    return null; // Render nothing initially
+    return null; 
   }
 
-  // "Safe" result
   if (result.message) {
     return <p className="mt-8 text-lg font-bold text-green-600">{result.message}</p>;
   }
 
-  // "Busted" result
   return (
     <div className="mt-8 border-2 border-red-600 p-4 rounded-lg flex flex-col items-center animate-pulse-once">
       <img
